@@ -16,8 +16,8 @@
 ## INTEGRANTES
 | Nome                                    | Matrícula | Papel          |
 | --------------------------------------- | --------- | -------------- |
-| Andressa Valéria Cardoso dos Santos     | 01245991  | Etapa 1 - Estruturação, Etapa 2 (1, 2, 3)- Configuração|
-| Bruna Freitas da Silva                  | 01332048  | Etapa 2 (4, 5)- Configuração |
-| Nicoly Gabriele da Silva                | 01864943  |  Etapa 2 (5, 7)- Configuração |
-| Rian Pedro Alves de Farias              | 01850177  | Etapa 3 -Script SQL |
-| Sellena de Assis Ribeiro Lima           | 01862534  | Etapa 4 - Estilização |
+| Andressa Valéria Cardoso dos Santos     | 01245991  | |
+| Bruna Freitas da Silva                  | 01332048  | Etapa 1 - Estruturação, Etapa 2 (1, 2, 3)- Configuração |
+| Nicoly Gabriele da Silva                | 01864943  |   |
+| Rian Pedro Alves de Farias              | 01850177  |  |
+| Sellena de Assis Ribeiro Lima           | 01862534  |  |
