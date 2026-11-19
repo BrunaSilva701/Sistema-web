@@ -1,7 +1,7 @@
 ## Passo a passo para utilizar o projeto
 1. Clonar o repositório: git clone https://github.com/usuario/projeto.git
 
-2. Entrar na pasta do projeto: cd Sistema-web
+2. Entrar na pasta do projeto: cd sistema-web-flask
 
 3. Criar um ambiente virtual: python -m venv venv
 
@@ -17,7 +17,8 @@
 | Nome                                    | Matrícula | Papel          |
 | --------------------------------------- | --------- | -------------- |
 | Andressa Valéria Cardoso dos Santos     | 01245991  | |
-| Bruna Freitas da Silva                  | 01332048  | Etapa 1 - Estruturação, Etapa 2 (1, 2, 3)- Configuração |
+| Bruna Freitas da Silva                  | 01332048  | Etapa 1 - Estruturação, Etapa 2 (1, 2, 3, 4)- Configuração, Etapa 4 - CSS, Etapa 7 - Arquivo de execução |
 | Nicoly Gabriele da Silva                | 01864943  |   |
 | Rian Pedro Alves de Farias              | 01850177  |  |
 | Sellena de Assis Ribeiro Lima           | 01862534  |  |
+| Vinicius          |   |  |
