@@ -16,7 +16,7 @@
 ## INTEGRANTES
 | Nome                                    | Matrícula | Papel          |
 | --------------------------------------- | --------- | -------------- |
-| Andressa Valéria Cardoso dos Santos     | 01245991  | |
+| Andressa Valéria Cardoso dos Santos     | 01249591  | Criou o banco de dados e conectou na aplicação, adicionou conteúdo nos templates html e no css, corrigiu controllers e .gitignore |
 | Bruna Freitas da Silva                  | 01332048  | Etapa 1 - Estruturação, Etapa 2 (1, 2, 3, 4)- Configuração, Etapa 4 - CSS, Etapa 7 - Arquivo de execução |
 | Nicoly Gabriele da Silva                | 01864943  |   |
 | Rian Pedro Alves de Farias              | 01850177  |  |
