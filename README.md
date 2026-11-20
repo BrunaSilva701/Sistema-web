@@ -1,7 +1,7 @@
 ## Passo a passo para utilizar o projeto
 1. Clonar o repositório: git clone https://github.com/usuario/projeto.git
 
-2. Entrar na pasta do projeto: cd sistema-web-flask
+2. Entrar na pasta principal do projeto: cd sistema-web-flask
 
 3. Criar um ambiente virtual: python -m venv venv
 
@@ -12,6 +12,12 @@
 6. Configurar as variáveis de ambiente: Crie seu arquivo .env com base no .env-exemplo, preenchendo as configurações necessárias.
 
 7. Executar o projeto: python run.py
+
+8. Se tudo funcionar, deverá aparecer algo semelhante a: ````* Running on http://127.0.0.1:5000````
+
+## Acesso como admin
+login: admin@email.com
+senha: admin123
 
 ## INTEGRANTES
 | Nome                                    | Matrícula | Papel          |
